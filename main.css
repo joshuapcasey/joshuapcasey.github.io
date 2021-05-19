@@ -1,0 +1,55 @@
+.nav{
+    margin-bottom: 0 auto;
+}
+
+#landing{
+    background-image: url("./assets/ken-cheung-KonWFWUaAuk-unsplash.jpg");
+    opacity: .7;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    margin: 0 auto;
+    padding:300px 0
+}
+
+
+#resume{
+    background-image: url("https://www.freegreatpicture.com/files/146/25015-colorful-high-resolution-background.jpg");
+    background-size: cover;
+    height: 400px;
+    opacity: .8;
+    color: whitesmoke;
+    padding: 150px;
+}
+
+.contactMe {
+    display: flex;
+    height: 100 vh;
+    background-color: black;
+    align-items: center;
+    }
+    
+form {
+    background-color: rgba(255,255,255,.6);
+    
+    border-radius: 10px;
+    padding: 2em;
+    margin-bottom: 3em;
+}
+
+button{
+    margin: 2em 0;
+}
+
+ul{
+    list-style-type: none;
+}
+
+footer{
+    display: flex;
+    flex-direction: row;
+}
+
+
+
